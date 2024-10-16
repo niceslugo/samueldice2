@@ -738,7 +738,7 @@ dice3d.addSystem({id:"samuel",name:"⁂ Samuel (Set)"},false);
     type:"d2",
     labels:[
       'modules/nice-more-dice_samuel/faces/samuel/d2-1.png',
-      'modules/nice-more-dice_samuel/faces/samuel/d2-1.png'
+      'modules/nice-more-dice_samuel/faces/samuel/d2-2.png'
     ],
 	system:"samuel"
   });
