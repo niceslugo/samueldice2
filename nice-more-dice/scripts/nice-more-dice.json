@@ -439,8 +439,8 @@ dice3d.addSystem({id:"PurpleMagic",name:"⁂ Purple Magic (Set)"},false);
   dice3d.addDicePreset({
     type:"d2",
     labels:[
-      'modules/nice-more-dice/faces/samuel/samueld2_1.webp',
-      'modules/nice-more-dice/faces/samuel/samueld2_2.webp'
+      'modules/nice-more-dice/faces/purplemagic/d2-1.webp',
+      'modules/nice-more-dice/faces/purplemagic/d2-2.webp'
     ],
 	system:"PurpleMagic"
   });
@@ -737,8 +737,8 @@ dice3d.addSystem({id:"samuel",name:"⁂ Samuel (Set)"},false);
   dice3d.addDicePreset({
     type:"d2",
     labels:[
-      'modules/nice-more-dice/faces/samuel/samueld2_1.webp',
-      'modules/nice-more-dice/faces/samuel/samueld2_2.webp'
+      'modules/nice-more-dice/faces/samuel/d2-1.png',
+      'modules/nice-more-dice/faces/samuel/d2-1.png'
     ],
 	system:"samuel"
   });
