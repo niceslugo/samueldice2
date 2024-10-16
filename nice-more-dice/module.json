@@ -13,9 +13,9 @@
     }
   ],
   "scripts": ["scripts/nice-more-dice.json"],
-  "url": "https://github.com/kristianbinau/fvtt-module-Nice-more-Dice",
-  "manifest": "https://raw.githubusercontent.com/kristianbinau/fvtt-module-nice-more-dice/main/nice-more-dice/module.json",
-  "download": "https://raw.githubusercontent.com/kristianbinau/fvtt-module-nice-more-dice/main/module.zip",
+  "url": "https://github.com/niceslugo/samueldice2",
+  "manifest": "https://raw.githubusercontent.com/niceslugo/samueldice2/main/nice-more-dice/module.json",
+  "download": "https://raw.githubusercontent.com/niceslugo/samueldice2/main/module.zip",
   "minimumCoreVersion": "0.7.9",
   "compatibility": {
     "minimum": "0.7.9",
